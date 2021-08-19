@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <!--
-**daniel-furman/daniel-furman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+- 👨🏻‍💻 I study information systems at UC Berkeley's I school. 
+- 👯 I’m looking to collaborate on Kaggle competitions. 
+- 📫 How to reach me: dryanfurman (at) gmail.
+- 🏄🏻‍♂️ Fun fact: I love surfing and the ocean!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=daniel-furman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-furmana&langs_count=5)](https://github.com/daniel-furman/github-readme-stats)
+
+
