@@ -8,6 +8,6 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=daniel-furman)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-furman&layout=compact)](https://github.com/daniel-furman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-furman&layout=compact&langs_count=6)](https://github.com/daniel-furman/github-readme-stats)
 
 
