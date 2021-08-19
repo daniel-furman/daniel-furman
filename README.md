@@ -10,6 +10,6 @@
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=daniel-furman)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-furmana&langs_count=5)](https://github.com/daniel-furman/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-furmana&langs_count=5)
 
 
