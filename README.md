@@ -8,6 +8,6 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=daniel-furman)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-furman&layout=compact&langs_count=6&exclude_repo=ice-densification-research,daniel-furman.github.io,ensemble-climate-projections,audio-classification-lesson,RandomDS,daniel-furman-old,Python-species-distribution-modeling)](https://github.com/daniel-furman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-furman&layout=compact&langs_count=6&exclude_repo=daniel-furman.github.io,daniel-furman-old,Python-species-distribution-modeling)](https://github.com/daniel-furman/github-readme-stats)
 
 
